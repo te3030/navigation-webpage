@@ -1,4 +1,4 @@
-baseURL               = "https://yyyyhomezzzz-yyyyhomezzzz.yangtool.top/"
+baseURL               = "/"
 languageCode          = "zh-CN"
 title                 = "网址导航"
 theme                 = "WebStack-Hugo"
