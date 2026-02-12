@@ -5,11 +5,11 @@
   links: 
     - title: OmniTools
       logo: /favicon.svg
-      url: /omni-tools/index.html
+      url: /omni-tools/
       description: 数千个用户友好的实用程序，可直接通过浏览器编辑图像、文本、列表和数据。
     - title: it-tools
       logo: /favicon-32x32.png
-      url: /it-tools/index.html
+      url: /it-tools/
       description: 为开发者和IT工作者提供的实用工具
     - title: 语雀
       logo: 语雀.webp
